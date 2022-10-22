@@ -1,0 +1,23 @@
+.container{
+    max-width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 1px solid white;
+    padding: 30px;
+    background-color: white;
+    box-shadow: rgba(0,0, 0, 0.35) 0px 5px 15px;
+}
+
+.input-field{
+    text-align: center;
+}
+
+input[type="text"]{
+    color: white;
+    border: none;
+    background-color: #485563;
+    max-width: 400px;
+}
+

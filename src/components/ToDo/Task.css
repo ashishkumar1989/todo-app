@@ -1,0 +1,11 @@
+.todos li{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.delete{
+    color: red;
+    cursor: pointer;
+}
